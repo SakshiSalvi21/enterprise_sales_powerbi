@@ -1,0 +1,5 @@
+RegionKey,RegionName,RegionGroup,PrimaryCountry
+R-NA-E,North America East,NA,Canada
+R-NA-W,North America West,NA,USA
+R-EU,Europe,EU,Germany
+R-APAC,Asia Pacific,APAC,India
