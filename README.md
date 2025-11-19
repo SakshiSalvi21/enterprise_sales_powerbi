@@ -26,22 +26,19 @@ The project is built using a star-schema model with separate dimension and fact 
 ├─ pbix/
 │   └─ Enterprise Sales Dashboard.pbix
 │
-├─ data/
-│   ├─ dim_channel.csv
-│   ├─ dim_customer.csv
-│   ├─ dim_date.csv
-│   ├─ dim_product.csv
-│   ├─ dim_region.csv
-│   ├─ dim_salesrep.csv
-│   ├─ fact_sales.csv
-│   ├─ fact_targets.csv
-│   ├─ sec_user_region.csv
-│   ├─ sec_user_rep.csv
-│   └─ bridge_rep_region.csv
-│
-└─ docs/
-    ├─ measures.md
-    └─ rls_setup.md
+└─ data/
+    ├─ dim_channel.csv
+    ├─ dim_customer.csv
+    ├─ dim_date.csv
+    ├─ dim_product.csv
+    ├─ dim_region.csv
+    ├─ dim_salesrep.csv
+    ├─ fact_sales.csv
+    ├─ fact_targets.csv
+    ├─ sec_user_region.csv
+    ├─ sec_user_rep.csv
+    └─ bridge_rep_region.csv
+
 ```
 
 ---
@@ -120,3 +117,6 @@ Includes KPIs such as:
 - BI & analytics portfolios  
 - Power BI learning and demonstration  
 
+## License
+
+MIT License
